@@ -1,1 +1,2 @@
-# belajar-repository
+# belajar-kolaborasi
+Belajar GitHub itu sangat menantang!
