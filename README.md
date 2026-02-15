@@ -1,2 +1,2 @@
 # Belajar-Kolaborasi
-Belajar GitHub itu sangat menantang!
+Belajar GitHub itu sangat seru!
